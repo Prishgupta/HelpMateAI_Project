@@ -10,9 +10,11 @@ The goal of the project will be to build a robust generative search system capab
 - If they want to refer to the original page from which the bot is responding, the bot should provide a citation as well.
 Goal - Solving the above two requirements well in the POC would ensure that the accuracy of the overall model is good and therefore further improvisations and customizations make sense.
 
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/cd01793b-6fd9-4c79-9fb7-db4117319bc2">
+
 # Data Used:
 Dataset is a set of HDFC Insurance Policy Documents provided by Upgrad
-<img width="379" alt="image" src="https://github.com/user-attachments/assets/cd01793b-6fd9-4c79-9fb7-db4117319bc2">
+For HelpMate AI project, the insurance documents has been downloaded from the module 'RAG Demonstration'.
 
 # Tools used: 
 LlamaIndex (only for now) has been used due to its powerful query engine, fast data processing using data loaders and directory readers as well as easier and faster implementation using fewer lines of code.
