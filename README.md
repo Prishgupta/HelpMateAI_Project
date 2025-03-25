@@ -21,11 +21,11 @@ LlamaIndex (only for now) has been used due to its powerful query engine, fast d
 
 <img width="676" alt="image" src="https://github.com/user-attachments/assets/37e626b2-4b6f-4b3e-bfd7-b283ceea52d6">
 
-Documents: These are the "books" in your library.
-Index: It's the "library" of your data - Stores your data.
-Retriever: It's the "librarian" that finds relevant data - Finds data.
-Response Synthesizer: It's the "storyteller" that creates a response - Makes responses.
-QueryEngine: It's the "director" that makes everything work together - Coordinates everything.
+Documents: These are the "books" in your library.\n
+Index: It's the "library" of your data - Stores your data.\n
+Retriever: It's the "librarian" that finds relevant data - Finds data.\n
+Response Synthesizer: It's the "storyteller" that creates a response - Makes responses.\n
+QueryEngine: It's the "director" that makes everything work together - Coordinates everything.\n
 
 # Libraries to Install
 Install OpenAI, LlamaIndex
