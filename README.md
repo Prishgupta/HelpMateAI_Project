@@ -12,9 +12,12 @@ Goal - Solving the above two requirements well in the POC would ensure that the 
 
 # Data Used:
 Dataset is a set of HDFC Insurance Policy Documents provided by Upgrad
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/cd01793b-6fd9-4c79-9fb7-db4117319bc2">
 
 # Tools used: 
 LlamaIndex (only for now) has been used due to its powerful query engine, fast data processing using data loaders and directory readers as well as easier and faster implementation using fewer lines of code.
+
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/37e626b2-4b6f-4b3e-bfd7-b283ceea52d6">
 
 Documents: These are the "books" in your library.
 Index: It's the "library" of your data - Stores your data.
